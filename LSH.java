@@ -1,7 +1,7 @@
 //Fahad Hassan
 //UID: 112323967
 //ID: Fha423
-//Project 3 Plagiarism Detection and Document Retrieval
+//Project 3 Plagiarism Detection and Document Retrieval using Locality Sensitive Hashing
 
 package solutions;
 import java.util.*;
